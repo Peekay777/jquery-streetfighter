@@ -59,3 +59,12 @@ body {
   left: -125px;
   float: left;
 }
+
+.text {
+	color: #fff;
+	font-family: Papyrus, fantasy;
+	font-weight: bold;
+	padding-left: 200px;
+	padding-top: 10px;
+	line-height: 20px;
+}
